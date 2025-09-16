@@ -24,7 +24,7 @@
 
 ---
 ## API Testing with Postman
-We provide a Postman collection to help you quickly test our API endpoints. This collection contains pre-configured requests for all available operations.
+Project is provided with a Postman collection to help you quickly test our API endpoints. This collection contains pre-configured requests for all available operations.
 
 ```bash
 wget https://raw.githubusercontent.com/kareem0913/taskmanager/main/taskmanager.postman_collection.json
