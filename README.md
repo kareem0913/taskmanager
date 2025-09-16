@@ -26,10 +26,9 @@
 ## API Testing with Postman
 We provide a Postman collection to help you quickly test our API endpoints. This collection contains pre-configured requests for all available operations.
 
-<a href="https://raw.githubusercontent.com/kareem0913/taskmanager/main/taskmanager.postman_collection.json" download>
-  <img src="https://img.icons8.com/color/48/000000/postman.png" alt="Postman" width="20"/>
-  Download Postman Collection
-</a>
+```bash
+wget https://raw.githubusercontent.com/kareem0913/taskmanager/main/taskmanager.postman_collection.json
+```
 ---
 
 ## Quick Start (using Docker Hub)
